@@ -10,8 +10,7 @@ Checklist
 * Did you successfully push your code to github? Can you see the code on github?
   * Yes
 * Did you add a README which includes a GIF walkthrough of the app's functionality?
-  * ![GIF Walkthrough](tewdew.gif)
-  <img src=tewdew.gif width=500 height=800/>
+  * <img src=tewdew.gif width=756 height=1344/>
 * Did you create an issue on the repo and include /cc @codepathreview @codepath in the issue body?
   * Yes
 
