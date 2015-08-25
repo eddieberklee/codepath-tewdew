@@ -11,6 +11,7 @@ Checklist
   * Yes
 * Did you add a README which includes a GIF walkthrough of the app's functionality?
   * ![GIF Walkthrough](tewdew.gif)
+  <img src=tewdew.gif width=500 height=800/>
 * Did you create an issue on the repo and include /cc @codepathreview @codepath in the issue body?
   * Yes
 
